@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages for Hansen John"
+title: "Hansen John"
 author_profile: true
 redirect_from: 
   - /about/
