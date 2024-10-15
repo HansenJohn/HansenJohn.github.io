@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hansen John"
+title: "Hansen Jiang"
 author_profile: true
 redirect_from: 
   - /about/
