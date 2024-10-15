@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "CN"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "hansen.png"
-  name             : "Hansen John"
-  pronouns         : # example: "she/her"  
+  name             : "Hansen Jiang"
+  pronouns         : "he/him"# example: "she/her"  
   bio              : "An idealist"
   location         : "Earth"
   employer         : 
