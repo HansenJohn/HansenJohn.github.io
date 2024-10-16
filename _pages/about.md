@@ -11,7 +11,7 @@ redirect_from:
 我的Email:[Email](2370739@stu.neu.edu.cn)\
 我的CSDN:[CSDN](https://blog.csdn.net/m0_51516317?type=blog)
 
-**I am a graduate student in the School of Information Science and Engineering at Northeastern University [NEU](https://www.neu.edu.cn/), class of 2024.** My research interests primarily lie in the field of computer vision, with a particular passion for open-world object detection. I am fortunate to be conducting research under the guidance of Professor Dongyue Chen at the [Northeastern University Smart Perception and Robot Institution](https://maplab.pages.dev/).\
+**I am a graduate student in the School of Information Science and Engineering at [Northeastern University,NEU](https://www.neu.edu.cn/), class of 2024.** My research interests primarily lie in the field of computer vision, with a particular passion for open-world object detection. I am fortunate to be conducting research under the guidance of Professor Dongyue Chen at the [Northeastern University Smart Perception and Robot Institution](https://maplab.pages.dev/).\
 My Email:[Email](2370739@stu.neu.edu.cn)\
 My CSDN:[CSDN](https://blog.csdn.net/m0_51516317?type=blog)
 
