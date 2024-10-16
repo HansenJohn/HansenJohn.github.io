@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**我是东北大学信息学院[东北大学](https://www.neu.edu.cn/)24级的一名研究生。**我的研究兴趣主要集中在计算机视觉领域，尤其对开放世界目标检测这一方向充满热情。我很幸运，目前跟随陈东岳教授在[东北大学机器感知与计算智能实验室](https://maplab.pages.dev/)进行研究。\
+我是东北大学信息学院[东北大学](https://www.neu.edu.cn/)24级的一名研究生。我的研究兴趣主要集中在计算机视觉领域，尤其对开放世界目标检测这一方向充满热情。我很幸运，目前跟随陈东岳教授在[东北大学机器感知与计算智能实验室](https://maplab.pages.dev/)进行研究。\
 我的Email:[Email](2370739@stu.neu.edu.cn)\
 我的CSDN:[CSDN](https://blog.csdn.net/m0_51516317?type=blog)
 
